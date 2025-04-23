@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com
 --- 
 
+
+
+
+
 **👩‍💻`Desenvolvedor FullStack`**
 
 Me chamo Bruno Ricardo Viana Venturelli, tenho 28 anos e sou natural de Minas Gerais.Possuo curso técnico em informática. Atualmente, estou cursando Desenvolvimento FullStack na Estácio de Sá. Sou apaixonado por tecnologia e em breve quero estar postando contéudos no "[Youtube](https://www.youtube.com.br)", onde irei estar postatando porjetos para serem desenvolvidos para iniciantes.
