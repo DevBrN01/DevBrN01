@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center-all">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=30&pause=800&color=00BFFF&width=435&lines=By%3A+CodBnR01" alt="Typing SVG" />
     </a>
@@ -49,7 +49,15 @@ Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTu
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=DevBrN01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrN01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevBrN01&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrN01&layout=compact&langs_count=9&theme=tokyonight&hide_border=true" height="180em"/>
+</div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidlns/Davidlns/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidlns/Davidlns/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davidlns/Davidlns/output/github-contribution-grid-snake.svg">
+</picture>
