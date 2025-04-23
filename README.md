@@ -45,17 +45,25 @@ Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTu
 
 <br/><br/>
 
----
-
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBrN01&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrN01&layout=compact&langs_count=9&theme=tokyonight&hide_border=true" height="180em"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DevBrN01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="100"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrN01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidlns/Davidlns/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidlns/Davidlns/output/github-contribution-grid-snake.svg">
