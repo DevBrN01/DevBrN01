@@ -1,11 +1,3 @@
-**👩‍💻 Desenvolvedor FullStack**
-
-Me chamo **Bruno Ricardo Viana Venturelli**, tenho 28 anos. Possuo curso técnico em informática e, atualmente, estou cursando **Desenvolvimento FullStack** na *Estácio de Sá*.
-
-Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTube](https://www.youtube.com.br), com projetos para ajudar iniciantes no mundo da programação.
-
----
-
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=30&pause=800&color=00BFFF&width=435&lines=By%3A+CodBnR01" alt="Typing SVG" />
@@ -17,6 +9,14 @@ Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTu
         <img src="https://readme-typing-svg.demolab.com?font=Fira+code&letterSpacing=small&duration=4400&pause=1000&color=00BFFF&width=435&lines=Hello%2C+my+name+is+Bruno+Venturelli+!;Apaixonado+por+Tecnologia+!;Em+breve+conte%C3%BAdos+no+Youtube+!" alt="Typing SVG" />
     </a>
 </p>
+
+---
+
+**👩‍💻 Desenvolvedor FullStack**
+
+Me chamo **Bruno Ricardo Viana Venturelli**, tenho 28 anos. Possuo curso técnico em informática e, atualmente, estou cursando **Desenvolvimento FullStack** na *Estácio de Sá*.
+
+Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTube](https://www.youtube.com.br), com projetos para ajudar iniciantes no mundo da programação.
 
 ---
 
