@@ -1,3 +1,4 @@
+---
 <p align="center-all">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=30&letterSpacing=small&pause=80000&color=00BFFF&width=435&lines=By%3A+CodBnR01" alt="Typing SVG" /></a>
 
@@ -9,15 +10,14 @@
 
 
 
----
 
     
 ---
 
+
 **👩‍💻`Desenvolvedor FullStack`**
 
 Me chamo Bruno Ricardo Viana Venturelli, tenho 28 anos e sou natural de Minas Gerais.Possuo curso técnico em informática. Atualmente, estou cursando Desenvolvimento FullStack na Estácio de Sá. Sou apaixonado por tecnologia e em breve quero estar postando contéudos no "[Youtube](https://www.youtube.com.br)", onde irei estar postatando porjetos para serem desenvolvidos para iniciantes.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-venturelli-557899226/">
         <img 
