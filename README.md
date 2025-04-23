@@ -18,9 +18,9 @@ Me chamo **Bruno Ricardo Viana Venturelli**, tenho 28 anos. Possuo curso técnic
 
 Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTube](https://www.youtube.com.br), com projetos para ajudar iniciantes no mundo da programação.
 
----
 
-### 📱 Redes Sociais
+
+
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-venturelli-557899226/">
         <img alt="Linkedin" title="Meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
