@@ -1,14 +1,9 @@
 ---
-<p align="center-all">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=30&letterSpacing=small&pause=80000&color=00BFFF&width=435&lines=By%3A+CodBnR01" alt="Typing SVG" /></a>
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&letterSpacing=small&duration=4400&pause=1000&color=00BFFF&width=435&lines=Hello%2C+my+name+is+Bruno+Venturelli+!;Apaixonado+por+Tecnologia+!;Em+breve+conte%C3%BAdos+no+Youtube+!" alt="Typing SVG" /></a>
 </p>
 <img src="https://readme-typing-svg.demolab.com
-
----
-
 ---
 **👩‍💻`Desenvolvedor FullStack`**
 
