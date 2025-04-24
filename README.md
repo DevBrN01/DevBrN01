@@ -56,6 +56,7 @@ Sou apaixonado por tecnologia e, em breve, estarei postando conteúdos no [YouTu
       align="left" 
       alt="GitHub Stats" 
       height="200"
+      display=inline_block
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrN01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=16" 
   />
 
